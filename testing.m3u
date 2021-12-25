@@ -1,53 +1,14 @@
 #EXTM3U
 #EXTINF:-1,WATCH MORE ON OMOHAK TV
 
-#EXTINF:-1 DSTV: SuperSport Grandstand,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6572
-#EXTINF:-1 DSTV: SuperSport PSL,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6573
-#EXTINF:-1 DSTV: SuperSport Premier League,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6574
-#EXTINF:-1 DSTV: SuperSport Football,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6576
-#EXTINF:-1 DSTV: SuperSport Variety 1,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6577
-#EXTINF:-1 DSTV: SuperSport Variety 3,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6579
-#EXTINF:-1 DSTV: SuperSport Variety 4,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6580
-#EXTINF:-1 DSTV: Supersport Blitz,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6584
-#EXTINF:-1 DSTV: SuperSport MáXimo,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6585
-#EXTINF:-1 DSTV: SuperSport Rugby,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6582
-#EXTINF:-1 DSTV: SuperSport Action,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6581
-#EXTINF:-1 DSTV: SuperSport Motorsport,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/7142
-#EXTINF:-1 BT Sport 1,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6610
-#EXTINF:-1 BT Sport 2,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6611
-#EXTINF:-1 BT Sport 3,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6612
-#EXTINF:-1 UK: Sky Sports News,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6614
-#EXTINF:-1 UK: Sky Sports F1,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6617
-#EXTINF:-1 UK: Sky Sports Golf,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6618
-#EXTINF:-1 UK: Sky Sports Football,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6620
-#EXTINF:-1 UK: Sky Sports Cricket,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6619
-#EXTINF:-1 MUTV,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/7236
-#EXTINF:-1 LFC TV,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/7237
-#EXTINF:-1 FS 1,
-http://iptv.tvmalaysia.cc:80/kl570/kl570/9003
-
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png" group-title="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png", SkyNet SportsHD
+http://livetv.ddns.me:8088/live/boom@skynet/123456/404.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png", SkyNet Sports 2 HD
+http://livetv.ddns.me:8088/live/boom@skynet/123456/405.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png" group-title="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png", SkyNet SportsHD 
+http://livetv.ddns.me:8088/live/boom@skynet/123456/404.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png", SkyNet Sports 2 HD 
+http://livetv.ddns.me:8088/live/boom@skynet/123456/405.m3u8
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOaTPN4uyYZZoDBLGEyr5In-HAOIvYiiThnT5G0B8Hi3/ts
 
 #EXTINF:-1,Al Kass Sports 1
